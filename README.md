@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Green AI](https://github.com/Soumadeep46/Green-AI)
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML,IPFS, Web 3.0, Blockchain**
 
 - 📫 How to reach me **soumadeep.kgp.36122@gmail.com**
 
