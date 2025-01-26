@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML,IPFS, Web 3.0, Blockchain**
 
-- 📫 How to reach me **soumadeep.kgp.36122@gmail.com**
+- 📫 How to reach me **souma46deep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
