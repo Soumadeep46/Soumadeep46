@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumadeep Samanta</h1>
-<h3 align="center">Hello, I'm Soumadeep Samanta, a B-Tech(M&C) student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT). I thrive on challenges and have a knack for problem-solving.</h3>
+<h3 align="center">An AI/ML and WEB3 Engineer passionate about building smarter systems that learn and evolve. As a B-Tech (Mathematics and Computing) student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), I thrive on tackling complex challenges and pushing the boundaries of what’s possible in AI, Machine Learning, and Web3 technologies.</h3>
 
 - 🔭 I’m currently working on [Green AI](https://github.com/Soumadeep46/Green-AI)
 
