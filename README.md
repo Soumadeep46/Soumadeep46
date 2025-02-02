@@ -1,15 +1,18 @@
 ![Soumadeep Samanta (1)](https://github.com/user-attachments/assets/9a5da0e2-5e3b-4e70-8590-15327c21c1de)
 # 💫 About Me:
 An AI/ML and WEB3 Engineer passionate about building smarter systems that learn and evolve. As a B-Tech (Mathematics and Computing) student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), I thrive on tackling complex challenges and pushing the boundaries of what’s possible in AI, Machine Learning, and Web3 technologies.
+###
 
-- 🔭 I’m currently working on [Green AI](https://github.com/Soumadeep46/Green-AI)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
+
+- 🔭 I’m currently working on [Green AI](https://github.com/Soumadeep46/Green-AI) 
 - 🌱 I’m currently learning *AI/ML,Web3*
 
 - 📫 How to reach me *souma46deep@gmail.com*
 
 - 📄 Know about my experiences [https://ipfs.io/ipfs/bafkreihbochxdfqt7cgdepi5ptgyxwebzu2y3od67b7txinqcdfksv2uaq](https://ipfs.io/ipfs/bafkreihbochxdfqt7cgdepi5ptgyxwebzu2y3od67b7txinqcdfksv2uaq)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lord.bad.boy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumadeepsamanta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@soumadeep46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souma46deep@gmail.com) 
 
