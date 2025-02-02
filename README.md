@@ -1,4 +1,5 @@
-![Soumadeep Samanta (1)](https://github.com/user-attachments/assets/9a5da0e2-5e3b-4e70-8590-15327c21c1de)
+<img align="center"  src=".github/looks/travel-planning-header.webp"  />
+
 # 💫 About Me:
 An AI/ML and WEB3 Engineer passionate about building smarter systems that learn and evolve. As a B-Tech (Mathematics and Computing) student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), I thrive on tackling complex challenges and pushing the boundaries of what’s possible in AI, Machine Learning, and Web3 technologies.
 ###
