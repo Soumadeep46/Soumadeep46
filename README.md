@@ -22,4 +22,10 @@ An AI/ML and WEB3 Engineer passionate about building smarter systems that learn 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumadeep46&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/soumadeep46/soumadeep46/output/snake.svg" alt="Snake animation" />
+
+###
