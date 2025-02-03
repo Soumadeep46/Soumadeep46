@@ -26,7 +26,7 @@ An AI/ML and WEB3 Engineer passionate about building smarter systems that learn 
 # 📊 GitHub Stats:
 ###
 
-<img align="right" height="150"  src=".github/looks/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+<img align="right" height="180"  src=".github/looks/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 ![](https://github-readme-stats.vercel.app/api?username=Soumadeep46&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
