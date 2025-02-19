@@ -8,7 +8,7 @@ An AI/ML and WEB3 Engineer passionate about building smarter systems that learn 
 
 ###
 
-- 🔭 I’m currently working on []() 
+- 🔭 I’m currently working on [PDF_READER](https://github.com/Soumadeep46/PDF-Reader) 
 - 🌱 I’m currently learning *AI/ML,Web3*
 
 - 📫 How to reach me *souma46deep@gmail.com*
