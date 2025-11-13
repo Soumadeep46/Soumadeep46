@@ -1,4 +1,14 @@
-<img align="center"  src=".github/looks/travel-planning-header.webp"  />
+
+
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=79ff97&height=250&section=header&text=Hello%20I'm%20Soumadeep%20Samanta&fontSize=40&fontAlignY=35&desc=Mathematics%20and%20Computing%20&descAlignY=60" />  
+</p>
+
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=ML+Engineer;WEB3+Developer;Designer;Gamer" />
+</p>
 
 # 💫 About Me:
 An AI/ML and WEB3 Engineer passionate about building smarter systems that learn and evolve. As a B-Tech (Mathematics and Computing) student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), I thrive on tackling complex challenges and pushing the boundaries of what’s possible in AI, Machine Learning, and Web3 technologies.
@@ -26,14 +36,16 @@ An AI/ML and WEB3 Engineer passionate about building smarter systems that learn 
 # 📊 GitHub Stats:
 ###
 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumadeep46&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumadeep46&theme=dark" />
+</p>
 <img align="right" height="250"  src=".github/looks/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+<p align="right">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumadeep46&theme=dark" />
+</p>
 
-###
-![](https://github-readme-streak-stats.herokuapp.com/?user=Soumadeep46&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumadeep46&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Soumadeep46&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
@@ -42,5 +54,6 @@ An AI/ML and WEB3 Engineer passionate about building smarter systems that learn 
 <img src="https://raw.githubusercontent.com/soumadeep46/soumadeep46/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
