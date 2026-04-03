@@ -37,9 +37,7 @@ An AI/ML and WEB3 Engineer passionate about building smarter systems that learn 
 ###
 
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soumadeep46&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumadeep46&theme=dark" />
+<p align="center">  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumadeep46&theme=dark" />
 </p>
 <img align="right" height="250"  src=".github/looks/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 <p align="right">
