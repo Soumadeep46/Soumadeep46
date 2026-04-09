@@ -18,12 +18,11 @@ An AI/ML and WEB3 Engineer passionate about building smarter systems that learn 
 
 ###
 
-- 🔭 I’m currently working on [PDF_READER](https://github.com/Soumadeep46/PDF-Reader) 
 - 🌱 I’m currently learning *AI/ML,Web3*
 
 - 📫 How to reach me *souma46deep@gmail.com*
 
-- 📄 Know about my experiences [Resume](http://ipfs.io/ipfs/bafkreihly6fxtxkfkins5zhr4yiki5ici5glotplq5upbkzpr4zcdu5pei)
+- 📄 Know about my experiences [Portfolio](https://soumadeeps-ghost-portfolio.vercel.app/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lord.bad.boy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumadeepsamanta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@soumadeep46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souma46deep@gmail.com) 
 
