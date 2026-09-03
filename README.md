@@ -11,14 +11,15 @@
 </p>
 
 # 💫 About Me:
-An AI/ML and WEB3 Engineer passionate about building smarter systems that learn and evolve. As a B-Tech (Mathematics and Computing) student at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), I thrive on tackling complex challenges and pushing the boundaries of what’s possible in AI, Machine Learning, and Web3 technologies.
+An AI/ML, Quantitative Finance, and Web3 Engineer passionate about building intelligent systems that learn, adapt, and solve complex problems. As a B.Tech student in Mathematics and Computing at Rajiv Gandhi Institute of Petroleum Technology (RGIPT), I explore the intersection of machine learning, statistical modeling, and financial markets. My interests include quantitative research, market microstructure, limit order book forecasting, and developing data-driven systems for financial applications. I also enjoy building AI-powered and Web3 solutions that push the boundaries of what’s possible.
+
 ###
 
 <img align="right" height="150" src=".github/looks/octocat-1738499485286.png"  />
 
 ###
 
-- 🌱 I’m currently learning *AI/ML,Web3*
+- 🌱 I’m currently learning *Quantative Finance, AI/ML, Web3*
 
 - 📫 How to reach me *souma46deep@gmail.com*
 
